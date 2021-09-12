@@ -44,9 +44,3 @@ Here are some ideas to get you started:
 #### 운영체제
 
 ![windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-
-## Github Status
-![SSEUNGkr's github Status](https://github-readme-stats.vercel.app/api?username=kms0219kms&show_icons=true&count_private=true&theme=radical)
-
-### Top Language
-![Top Language](https://github-readme-stats.vercel.app/api/top-langs/?username=kms0219kms&langs_count=100&theme=radical)<br/>
