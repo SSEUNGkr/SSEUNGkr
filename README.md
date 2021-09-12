@@ -1,4 +1,4 @@
-# Hi there 👋
+# 안녕하세요 SSEUNG 입니다.
 
 <!--
 **SSEUNGkr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-안녕하세요, 평범한 초보 개발자 SSEUNG 입니다, 저는 Python , Dpy , Html , Css로 개발하고 있습니다. 🥇Oy My Girl 🥇
+안녕하세요, 평범한 초보 개발자 SSEUNG 입니다, 저는 Python , Dpy / Html , Css로 개발하고 있으며 조금씩 성장중입니다. 🥇 Oy My Girl 🥇
 
 ## 📊Technologies📊
 
