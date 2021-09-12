@@ -45,5 +45,5 @@ Here are some ideas to get you started:
 
 ![windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
-### Github Status
+## Github Status
 ![SSEUNGkr's GitHub stats](https://github-readme-stats.vercel.app/api?username=SSEUNGkr&theme=dark&show_icons=true)
