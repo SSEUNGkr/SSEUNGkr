@@ -14,8 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Hi I'm student developer SSEUNG.
 
-안녕하세요, 평범한 초보 개발자 SSEUNG 입니다, 저는 Python , Dpy / Html , Css를 사용하여 개발하고 있습니다. 🥇 Oy My Girl 🥇
+ I am developer using Python, HTML, JS .
+
+Mail : sseung@skyle.kr
 
 ## 📊Technologies📊
 
