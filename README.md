@@ -38,4 +38,5 @@ Mail : sseung@skyle.kr
 ![windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 ## Github Status
-![SSEUNGkr's GitHub stats](https://github-readme-stats.vercel.app/api?username=SSEUNGkr&theme=dark&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SSEUNGkr&show_icons=true&theme=radical)
+
