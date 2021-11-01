@@ -40,4 +40,4 @@ Mail : sseung@skyle.kr
 ## Github Status
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SSEUNGkr&show_icons=true&theme=radical)
 
-![snake gif](https://github.com/[GitHub SSEUNGkr]/[GitHub SSEUNGkr]/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/[GitHub SSEUNGkr]/[GitHub SSEUNGkr]/blob/output/github-contribution-grid-snake.gif)
