@@ -33,9 +33,8 @@ Here are some ideas to get you started:
 
 #### Tools  
 
-![vsc](https://img.shields.io/badge/vsc-005FED?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![Eclipse IDE](https://img.shields.io/badge/Eclipse IDE-2C2255?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-
+[![vsc](https://img.shields.io/badge/vsc-005FED?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](https://code.visualstudio.com/)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzzsza)](https://hits.seeyoufarm.com)
 #### OS
 
 ![windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
