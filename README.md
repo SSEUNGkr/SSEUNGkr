@@ -18,8 +18,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on **Skyle**
 
 ## How to reach me
-<a href="[https://mail.google.com/]" target="_blank"><img src="https://img.shields.io/badge/[Gmail]-[20c997]?style=flat-square&logo=[Gmail]&logoColor=white"/></a>
-
+![Gmail](https://img.shields.io/badge/-zero734kr@gmail.com-c14438?logo=Gmail&logoColor=white&link=mailto:zero734kr@gmail.com)
 
 ## 📊Technologies
 
