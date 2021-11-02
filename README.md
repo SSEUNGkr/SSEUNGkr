@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 -->
 <h3 align="center">Hi I'm student developer SSEUNG, I like to take on various challenges.</h3>
 
+- 📫 How to reach me **sseung0507@gmail.com**
 
 
 ## 📊Technologies
