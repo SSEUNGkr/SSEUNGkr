@@ -34,6 +34,7 @@ Here are some ideas to get you started:
 #### Tools  
 
 ![vsc](https://img.shields.io/badge/vsc-005FED?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![Eclipse IDE](https://img.shields.io/badge/Eclipse IDE-2C2255?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
 #### OS
 
