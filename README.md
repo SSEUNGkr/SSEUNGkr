@@ -13,10 +13,14 @@ Here are some ideas to get you started:
 -->
 <h3 align="center">Hi I'm student developer SSEUNG, I like to take on various challenges.</h3>
 
-- 📫 How to reach me **sseung0507@gmail.com**
 - 🌱 I’m currently learning **Js, Node.js **
 - - ⚡ Fun fact **There's no easiest programming language.**
 - 🔭 I’m currently working on **Skyle**
+
+## How to reach me
+<a href="[https://mail.google.com/]" target="_blank"><img src="https://img.shields.io/badge/[Gmail]-[20c997]?style=flat-square&logo=[Gmail]&logoColor=white"/></a>
+
+
 ## 📊Technologies
 
 #### Technology Stack
