@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 <h3 align="center">Hi I'm student developer SSEUNG, I like to take on various challenges.</h3>
 
 - 🌱 I’m currently learning **Js, Node.js**
-- - ⚡ Fun fact **There's no easiest programming language.**
+- ⚡ Fun fact **There's no easiest programming language.**
 - 🔭 I’m currently working on **Skyle**
 
 ## How to reach me
