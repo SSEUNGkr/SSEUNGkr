@@ -41,3 +41,5 @@ Hi I'm student developer SSEUNG.
 ![SSEUNGkr's GitHub stats](https://github-readme-stats.vercel.app/api?username=SSEUNGkr&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SSEUNGkr)
 ![snake gif](https://github.com/SSEUNGkr/SSEUNGkr/blob/output/github-contribution-grid-snake.gif)
+
+<img width="100%" height="auto" align="center" src="https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=100&section=footer&fontSize=90">
