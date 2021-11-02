@@ -39,5 +39,4 @@ Mail : sseung@skyle.kr
 
 ## Github Status
 ![SSEUNGkr's GitHub stats](https://github-readme-stats.vercel.app/api?username=SSEUNGkr&show_icons=true&theme=radical)
-
-![snake gif](https://github.com/SSEUNGkr/SSEUNGkr/blob/output/github-contribution-grid-snake.gif)
+<img src="https://raw.githubusercontent.com/SSEUNGkr/SSEUNGkr/output/github-contribution-grid-snake.svg" />
