@@ -1,4 +1,5 @@
-# Hi there 👋
+<img width="100%" height="auto" align="center" src="https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=200&section=header&fontSize=90">
+
 
 <!--
 **SSEUNGkr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,13 +17,11 @@ Here are some ideas to get you started:
 -->
 Hi I'm student developer SSEUNG.
 
- I am developer using Python, HTML, JS .
 
-Mail : sseung@skyle.kr
 
 ## 📊Technologies
 
-#### Main Skill 
+#### Technology Stack
 
 ![html5](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
 ![css3](https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
