@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Hi I'm student developer SSEUNG
 <h3 align="center">Hi I'm student developer SSEUNG, I like to take on various challenges.</h3>
 
 
