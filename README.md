@@ -35,6 +35,7 @@ Here are some ideas to get you started:
 #### IDE
 
 [![VSC](https://img.shields.io/badge/vsc-005FED?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](https://code.visualstudio.com/)
+![Intellij](https://img.shields.io/badge/IntelliJ%20IDEA-fb2046.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
 #### OS
 
